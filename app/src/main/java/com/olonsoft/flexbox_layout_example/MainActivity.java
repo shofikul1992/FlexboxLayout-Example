@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        setTitle("dev2qa.com - FlexboxLayout Example.");
+        setTitle("FlexboxLayout Example.");
 
 
         RecyclerView recyclerView = (RecyclerView)findViewById(R.id.flex_box_recycler_view);
